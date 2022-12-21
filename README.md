@@ -1,4 +1,4 @@
-# How to run test/run the code.
+# How to run the code.
 
 Download Zip<br>
 Click olivaPhonebook.jar to test it<br>
